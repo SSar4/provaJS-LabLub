@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #F7F7F7;
+}
+
+.header{
+    position: relative;
+    height: 76px;
+    display: flex;
+    border-bottom: 2px solid #EBEBEB;
+}
+.logo{
+    position: relative;
+    height: 76px;
+    width: 20px;
+}
+.logo > p{
+position: absolute;
+top: 15px;
+left: 141px;
+width: 86px;
+height: 53px;
+text-align: center;
+font: italic normal bold 44px/70px Helvetica Neue;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+.navitens{
+
+    text-align: center;
+font: italic normal bold 20px/70px Helvetica Neue;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+.line1{
+position: absolute;
+top: 72px;
+left: 130px;
+width: 107px;
+height: 7px;
+background: #B5C401 0% 0% no-repeat padding-box;
+border-radius: 6px;
+opacity: 1;
+}
